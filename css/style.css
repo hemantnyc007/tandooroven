@@ -3361,3 +3361,9 @@ p.copy-right a:hover{
     letter-spacing: 0em;
 	}
 }
+
+/* --------CUSTOM CSS */
+.img_med{
+	width: 317px;
+    height: 240px;
+}
