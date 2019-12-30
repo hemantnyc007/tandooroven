@@ -47,7 +47,7 @@ label{
 }
 /*-- header --*/
 .banner {
-    background: url(../images/banner.jpg) no-repeat 0px 0px;
+    background: url(../images/2019-ven-1.png) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -55,6 +55,7 @@ label{
     -ms-background-size: cover;
     min-height:800px;
 	position:relative;
+    opacity: 0.5;
 }
 .down {
       position: absolute;
@@ -939,6 +940,7 @@ h3.title,h2.title.review {
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height:700px;
+    opacity: 0.5;
 }
 /*--//review--*/
 #gallery {
@@ -1161,6 +1163,7 @@ h3.title,h2.title.review {
   -ms-background-size: cover;
   -webkit-background-size: cover;
   min-height:540px;
+  opacity: 0.5;
 }
 .bottom-top{
   text-align:center;
@@ -1205,6 +1208,7 @@ h2.sec-head {
     -ms-background-size: cover;
     min-height:750px;
 	text-align:center;
+    opacity: 0.5;
 }
 .reservation-info {
     margin-top: 8em;
@@ -1324,6 +1328,7 @@ h3.tittle.reserve {
     -ms-background-size: cover;
     min-height:300px;
     position: relative;
+    opacity: 0.5;
 }
 h3.single {
     text-align: center;
