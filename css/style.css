@@ -55,7 +55,7 @@ label{
     -ms-background-size: cover;
     min-height:800px;
 	position:relative;
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 .down {
       position: absolute;
@@ -940,7 +940,7 @@ h3.title,h2.title.review {
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height:700px;
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 /*--//review--*/
 #gallery {
@@ -1163,7 +1163,7 @@ h3.title,h2.title.review {
   -ms-background-size: cover;
   -webkit-background-size: cover;
   min-height:540px;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 .bottom-top{
   text-align:center;
@@ -1208,7 +1208,7 @@ h2.sec-head {
     -ms-background-size: cover;
     min-height:750px;
 	text-align:center;
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 .reservation-info {
     margin-top: 8em;
@@ -1328,7 +1328,7 @@ h3.tittle.reserve {
     -ms-background-size: cover;
     min-height:300px;
     position: relative;
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 h3.single {
     text-align: center;
@@ -3375,4 +3375,8 @@ p.copy-right a:hover{
 .chefpic{
 	width:260px;
 	height: 330px;;
+}
+
+.blackOverlay{
+background: #00000063;
 }
