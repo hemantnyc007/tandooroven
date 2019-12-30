@@ -3378,5 +3378,9 @@ p.copy-right a:hover{
 }
 
 .blackOverlay{
-background: #00000063;
+background: #00000070;
+}
+.logo1{
+        width: 60%;
+        float:left;
 }
